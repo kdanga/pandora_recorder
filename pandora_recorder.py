@@ -13,7 +13,7 @@ def sub():
     output = p.stdout.readline()
 
 def main():
-  print 'yes'
+  print 'test'
 
 if __name__ == '__main__':
   main()
